@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "生きるのは苦しい",
+  "base_artist": "神が残した夢を喰う。",
+  "createdAt": "2026-02-14T09:22:08.283214Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きるのは苦しい",
+      "artist": "神が残した夢を喰う。",
+      "has_synced": false,
+      "path": "select/pl_01_生きるのは苦しい_神が残した夢を喰う。.txt"
+    }
+  ]
+}
